@@ -89,7 +89,7 @@ The **Open Systems Interconnection (OSI)** model is a conceptual framework used 
 - Port addressing
 - Quality of service
 
-**Protocols:** TCP, UDP, SCTP, DCCP
+**Protocols:** TCP, UDP, QUIC, SCTP, DCCP
 
 ### **Layer 3: Network Layer**
 **Purpose:** Provides logical addressing and routing

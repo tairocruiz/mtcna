@@ -122,6 +122,27 @@ OSI Model          TCP/IP Model
 - **Gaming:** Low-latency requirements
 - **SNMP:** Network management
 
+#### **QUIC (Quick UDP Internet Connections)**
+**Characteristics:**
+- **Transport Layer:** Built on top of UDP
+- **Connection-oriented:** Reliable, ordered delivery
+- **Multiplexed:** Multiple streams over single connection
+- **Encrypted:** Built-in TLS 1.3 encryption
+- **Low Latency:** Reduced connection establishment time
+
+**QUIC Features:**
+- **0-RTT Connection:** Faster than TCP handshake
+- **Connection Migration:** Survives network changes
+- **Stream Multiplexing:** Independent data streams
+- **Forward Error Correction:** Built-in error recovery
+- **Header Compression:** Reduced overhead
+
+**QUIC Use Cases:**
+- **HTTP/3:** Modern web protocol
+- **Video streaming:** YouTube, Netflix
+- **Gaming:** Low-latency applications
+- **Mobile applications:** Better performance on mobile networks
+
 ### **Layer 2: Internet Layer**
 **Purpose:** Provides logical addressing and routing
 
@@ -184,10 +205,11 @@ OSI Model          TCP/IP Model
 
 ### **Common Protocol Stacks:**
 1. **Web Browsing:** HTTP → TCP → IP → Ethernet
-2. **Email:** SMTP → TCP → IP → Ethernet
-3. **File Transfer:** FTP → TCP → IP → Ethernet
-4. **DNS Query:** DNS → UDP → IP → Ethernet
-5. **Network Management:** SNMP → UDP → IP → Ethernet
+2. **Modern Web (HTTP/3):** HTTP/3 → QUIC → UDP → IP → Ethernet
+3. **Email:** SMTP → TCP → IP → Ethernet
+4. **File Transfer:** FTP → TCP → IP → Ethernet
+5. **DNS Query:** DNS → UDP → IP → Ethernet
+6. **Network Management:** SNMP → UDP → IP → Ethernet
 
 ---
 

@@ -33,6 +33,18 @@ b) TCP
 c) HTTP
 d) Ethernet
 
+### 15. What is the purpose of the checksum field in TCP?
+a) To ensure data integrity
+b) To route packets
+c) To establish connections
+d) To compress data
+
+### 16. Which modern protocol is built on top of UDP and provides reliable, encrypted connections?
+a) TCP
+b) QUIC
+c) SCTP
+d) DCCP
+
 ### 5. What is the purpose of the Presentation layer?
 a) To establish sessions between applications
 b) To ensure data is readable by the receiving system
@@ -98,6 +110,24 @@ a) To ensure data integrity
 b) To route packets
 c) To establish connections
 d) To compress data
+
+### 16. Which modern protocol is built on top of UDP and provides reliable, encrypted connections?
+a) TCP
+b) QUIC
+c) SCTP
+d) DCCP
+
+### 17. Why can't you download a 1GB file in exactly 1 second on a 1Gbps connection?
+a) Because of protocol overhead and headers
+b) Because the file is compressed
+c) Because of network congestion
+d) Because of server limitations
+
+### 18. What is the typical protocol overhead percentage for small HTTP requests?
+a) 5-10%
+b) 20-30%
+c) 50-60%
+d) 80-90%
 
 ---
 
@@ -165,6 +195,9 @@ _________________________________________
 13. c) 255
 14. b) Data Link Layer
 15. a) To ensure data integrity
+16. b) QUIC
+17. a) Because of protocol overhead and headers
+18. d) 80-90%
 
 ### Short Answer Sample Answers:
 
@@ -194,10 +227,10 @@ _________________________________________
 ---
 
 ## Scoring Guide
-- **13-15 correct:** Excellent understanding
-- **10-12 correct:** Good understanding, review missed topics
-- **7-9 correct:** Fair understanding, additional study needed
-- **Below 7:** Review all materials before proceeding
+- **16-18 correct:** Excellent understanding
+- **13-15 correct:** Good understanding, review missed topics
+- **10-12 correct:** Fair understanding, additional study needed
+- **Below 10:** Review all materials before proceeding
 
 ---
 

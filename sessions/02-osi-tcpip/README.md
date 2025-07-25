@@ -37,7 +37,12 @@ By the end of this session, you will be able to:
 - **Internet Layer**
 - **Network Access Layer**
 
-### 5. Data Encapsulation
+### 5. Modern Transport Protocols
+- **TCP and UDP fundamentals**
+- **QUIC protocol and HTTP/3**
+- **Protocol comparison and use cases**
+
+### 6. Data Encapsulation
 - How data flows through layers
 - Protocol Data Units (PDUs)
 - Headers and trailers
@@ -47,11 +52,13 @@ By the end of this session, you will be able to:
 ## 📖 Theory Notes
 - [OSI Model Deep Dive](./theory/osi-model.md)
 - [TCP/IP Protocol Suite](./theory/tcpip-protocols.md)
+- [QUIC Protocol Deep Dive](./theory/quic-protocol.md)
 - [Data Encapsulation Process](./theory/data-encapsulation.md)
 
 ## 🧪 Lab Exercises
 - [Lab 01: Protocol Analysis](./labs/lab01-protocol-analysis.md)
 - [Lab 02: Wireshark Packet Capture](./labs/lab02-wireshark.md)
+- [Lab 03: Data Encapsulation Simulation](./labs/lab03-data-encapsulation-simulation.md)
 
 ## 📝 Practice Questions
 - [Quiz: OSI Model and TCP/IP](./quiz/osi-tcpip-quiz.md)
