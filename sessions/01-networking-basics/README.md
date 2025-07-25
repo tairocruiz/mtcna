@@ -48,11 +48,13 @@ By the end of this session, you will be able to:
 ## 📖 Theory Notes
 - [Networking Fundamentals](./theory/networking-fundamentals.md)
 - [Network Types and Topologies](./theory/network-types-topologies.md)
+- [Network Media and Cabling](./theory/network-media-cabling.md)
 - [Network Components](./theory/network-components.md)
 
 ## 🧪 Lab Exercises
 - [Lab 01: Network Discovery](./labs/lab01-network-discovery.md)
 - [Lab 02: Identifying Network Components](./labs/lab02-identify-components.md)
+- [Lab 03: UTP Cable Testing and Termination](./labs/lab03-utp-cable-testing.md)
 
 ## 📝 Practice Questions
 - [Quiz: Networking Basics](./quiz/networking-basics-quiz.md)

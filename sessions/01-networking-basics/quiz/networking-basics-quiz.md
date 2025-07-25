@@ -69,6 +69,18 @@ b) Brand of equipment
 c) Cost, scalability, and reliability requirements
 d) Number of users' favorite topology
 
+### 11. What is the maximum distance for Cat 6 UTP cable in most applications?
+a) 50 meters
+b) 100 meters
+c) 200 meters
+d) 500 meters
+
+### 12. Which UTP cable category supports 10 Gbps over 100 meters?
+a) Cat 5e
+b) Cat 6
+c) Cat 6a
+d) Cat 7
+
 ---
 
 ## Short Answer Questions
@@ -96,6 +108,35 @@ _________________________________________
 3. _________________________________
 ```
 
+### 14. What are the main differences between Cat 5e and Cat 6 UTP cables?
+```
+Cat 5e: _________________________________
+_________________________________________
+
+Cat 6: __________________________________
+_________________________________________
+```
+
+### 15. When would you use a crossover cable instead of a straight-through cable?
+```
+Answer: _________________________________
+_________________________________________
+_________________________________________
+```
+
+### 16. What is the purpose of a rollover cable?
+```
+Answer: _________________________________
+_________________________________________
+```
+
+### 17. Why can modern switches connect to each other using straight-through cables?
+```
+Answer: _________________________________
+_________________________________________
+_________________________________________
+```
+
 ---
 
 ## Answer Key
@@ -111,6 +152,8 @@ _________________________________________
 8. b) Switch or Hub
 9. c) Local Area Network
 10. c) Cost, scalability, and reliability requirements
+11. b) 100 meters
+12. c) Cat 6a
 
 ### Short Answer Sample Answers:
 
@@ -128,13 +171,35 @@ _________________________________________
 - Fiber optic cables
 - Wireless (radio waves, infrared)
 
+**14. Cat 5e vs Cat 6 differences:**
+- Cat 5e: 100 MHz bandwidth, up to 1 Gbps, 100 meters, affordable
+- Cat 6: 250 MHz bandwidth, up to 1 Gbps (10 Gbps short distance), 100 meters, better crosstalk performance
+
+**15. Crossover cable use cases:**
+- Connecting two similar devices (PC to PC, switch to switch, router to router)
+- Direct device-to-device connections without network infrastructure
+- Legacy equipment that doesn't support auto-MDI/MDI-X
+- When auto-negotiation fails between devices
+
+**16. Rollover cable purpose:**
+- Console connection to network devices for initial configuration
+- Management access to routers, switches, firewalls
+- Serial communication for device setup and troubleshooting
+- Out-of-band management when network connectivity is not available
+
+**17. Auto-MDI/MDI-X technology:**
+- Modern devices automatically detect cable type and adjust pin configuration
+- Devices can switch between MDI and MDI-X modes automatically
+- Eliminates the need for crossover cables in most modern networks
+- Uses test signals to determine optimal transmit/receive pair alignment
+
 ---
 
 ## Scoring Guide
-- **9-10 correct:** Excellent understanding
-- **7-8 correct:** Good understanding, review missed topics
-- **5-6 correct:** Fair understanding, additional study needed
-- **Below 5:** Review all materials before proceeding
+- **14-15 correct:** Excellent understanding
+- **12-13 correct:** Good understanding, review missed topics
+- **10-11 correct:** Fair understanding, additional study needed
+- **Below 10:** Review all materials before proceeding
 
 ---
 
