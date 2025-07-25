@@ -55,6 +55,7 @@ By the end of this session, you will be able to:
 - [Lab 01: Network Discovery](./labs/lab01-network-discovery.md)
 - [Lab 02: Identifying Network Components](./labs/lab02-identify-components.md)
 - [Lab 03: UTP Cable Testing and Termination](./labs/lab03-utp-cable-testing.md)
+- [Lab 04: Network Device Identification](./labs/lab04-device-identification.md)
 
 ## 📝 Practice Questions
 - [Quiz: Networking Basics](./quiz/networking-basics-quiz.md)

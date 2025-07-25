@@ -56,9 +56,12 @@ By the end of this session, you will be able to:
 - [Data Encapsulation Process](./theory/data-encapsulation.md)
 
 ## 🧪 Lab Exercises
-- [Lab 01: Protocol Analysis](./labs/lab01-protocol-analysis.md)
-- [Lab 02: Wireshark Packet Capture](./labs/lab02-wireshark.md)
-- [Lab 03: Data Encapsulation Simulation](./labs/lab03-data-encapsulation-simulation.md)
+- [Lab 08: Protocol Analysis](./labs/lab08-protocol-analysis.md)
+- [Lab 09: Wireshark Packet Capture](./labs/lab09-wireshark.md)
+- [Lab 10: Data Encapsulation Simulation](./labs/lab10-data-encapsulation-simulation.md)
+- [Lab 11: Protocol Analysis with Wireshark](./labs/lab11-wireshark-analysis.md)
+- [Lab 12: Network Performance Analysis](./labs/lab12-performance-analysis.md)
+
 
 ## 📝 Practice Questions
 - [Quiz: OSI Model and TCP/IP](./quiz/osi-tcpip-quiz.md)

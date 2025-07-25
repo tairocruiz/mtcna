@@ -1,4 +1,4 @@
-# Lab 03: Data Encapsulation Simulation
+# Lab 05: Data Encapsulation Simulation
 
 ## 🎯 Objective
 Understand data encapsulation by simulating the OSI layer process and measuring protocol overhead using various network analysis tools.
@@ -373,4 +373,4 @@ After completing this lab, you should understand:
 
 ---
 
-**Next Lab:** [Lab 04: Protocol Analysis with Wireshark](./lab04-wireshark-analysis.md) 
+**Next Lab:** [Lab 06: Protocol Analysis with Wireshark](./lab06-wireshark-analysis.md) 
